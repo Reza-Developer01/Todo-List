@@ -1,19 +1,19 @@
 # Todo-List
 
-**If you have a lot of work and it is possible to forget, the best option is to use a simple, beautiful and fluent website.😃**
+**😃 If you have a lot of work and it is possible to forget, the best option is to use a simple, beautiful and fluent website.**
 
 ![ToDoApp1](https://github.com/Reza-Developer01/Todo-List/assets/157674736/3fdf08f4-f23a-42fe-beeb-24090e6fe90b)
 
 ![ToDoApp2](https://github.com/Reza-Developer01/Todo-List/assets/157674736/50ed13bc-c484-4dad-8b57-8b1076709510)
 
-- [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
+- ✨ [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
 
-- Developed by Reza Rashvand
+- 👨‍💻 Developed by Reza Rashvand
 
-- Created - 2024-01-30
+- 📅 Created - 2024-01-30
 
-- Technologies Used - HTML5, CSS3, BOOTSTRAP, JS
+- ⚙️ Technologies Used - HTML5, CSS3, BOOTSTRAP, JS
 
-- Role - Frontend
+- 🔥 Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/amirreza_rashvand_developer)
+- 🤝 How to reach me : with my [instagram](https://www.instagram.com/amirreza_rashvand_developer)
