@@ -2,9 +2,9 @@
 
 **If you have a lot of work and it is possible to forget, the best option is to use a simple, beautiful and fluent website.**
 
-![ToDoApp1](https://github.com/Reza-Developer01/Todo-List/assets/157674736/df68901a-b02c-4f2d-97e9-80bafdec5a24)
+![ToDoApp1](https://github.com/Reza-Developer01/Todo-List/assets/157674736/3fdf08f4-f23a-42fe-beeb-24090e6fe90b)
 
-![ToDoApp2](https://github.com/Reza-Developer01/Todo-List/assets/157674736/063436e9-885a-4ff9-85f1-5f58afecce7e)
+![ToDoApp2](https://github.com/Reza-Developer01/Todo-List/assets/157674736/50ed13bc-c484-4dad-8b57-8b1076709510)
 
 - [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
 
